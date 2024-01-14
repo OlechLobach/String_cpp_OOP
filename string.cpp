@@ -39,5 +39,5 @@ String String::operator*(const String& other) const {
 }
 
 void String::display() const {
-    std::cout << str << std::endl;
+    cout << str << endl;
 }
